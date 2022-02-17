@@ -59,5 +59,3 @@ CREATE TABLE dept_emp (
 );
    
 				   
-					   
-SELECT* FROM departments;
